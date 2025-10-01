@@ -8,13 +8,13 @@ Proyek ini merupakan latihan dalam mempelajari Dasar - Dasar Kotlin, yang di imp
 ---
 
 ## Ringkasan
-Dalam Bahasa Kotlin, cabang dapat dicapai dengan kondisional if/else atau when.
-Isi cabang if dalam kondisional if/else hanya dieksekusi saat ekspresi boolean dalam kondisi cabang if menampilkan nilai true.
-Cabang else if berikutnya di if/else bersyarat hanya dieksekusi saat cabang if atau else if sebelumnya menampilkan nilai false.
-Cabang else terakhir dalam kondisional if/else hanya dieksekusi ketika semua cabang if atau else if sebelumnya menampilkan nilai false.
-Sebaiknya gunakan kondisional when untuk menggantikan kondisional if/else jika ada lebih dari dua cabang.
-Anda dapat menulis kondisi yang lebih kompleks dalam kondisional when dengan koma (,), rentang in, dan kata kunci is.
-Kondisional if/else dan when dapat berfungsi sebagai sebuah pernyataan atau ekspresi.
+-Dalam Bahasa Kotlin, cabang dapat dicapai dengan kondisional if/else atau when.
+- cabang if dalam kondisional if/else hanya dieksekusi saat ekspresi boolean dalam kondisi cabang if menampilkan nilai true.
+-Cabang else if berikutnya di if/else bersyarat hanya dieksekusi saat cabang if atau else if sebelumnya menampilkan nilai false.
+-Cabang else terakhir dalam kondisional if/else hanya dieksekusi ketika semua cabang if atau else if sebelumnya menampilkan nilai false.
+-Sebaiknya gunakan kondisional when untuk menggantikan kondisional if/else jika ada lebih dari dua cabang.
+-Anda dapat menulis kondisi yang lebih kompleks dalam kondisional when dengan koma (,), rentang in, dan kata kunci is.
+-Kondisional if/else dan when dapat berfungsi sebagai sebuah pernyataan atau ekspresi.
 
 ## Plugins
 
